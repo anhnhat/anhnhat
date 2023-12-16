@@ -2,8 +2,8 @@
 - 👀 I’m Web Dev
 
 - Tech stack: 
-  + Front-end: ReactJs/Vuejs
-  + Back-end: PHP
+  + Front-end: ReactJs
+  + Back-end: PHP, NodeJs
   
 - 📫 How to reach me 
   + Email: phananhnhat2@gmail.com
