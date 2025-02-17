@@ -3,7 +3,7 @@
 
 - Tech stack: 
   + Front-end: ReactJs
-  + Back-end: PHP, NodeJs
+  + Back-end: PHP, NodeJs, Golang
   
 - 📫 How to reach me 
   + Email: phananhnhat2@gmail.com
